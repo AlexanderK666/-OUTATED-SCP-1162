@@ -53,11 +53,11 @@ scp1162:
 ## Windows
 - To install plugin, simply:
   - Download a plugin from release page [click](https://github.com/AlexanderK666/SCP-1162/releases/latest)
-  - Move it to ``~/.config/EXILED/Plugins``
+  - Move it to ``%AppData%/Exiled/Plugins``
 ## Linux
 - To install plugin, simply:
   - Download a plugin from release page [click](https://github.com/AlexanderK666/SCP-1162/releases/latest)
-  - Move it to ``%AppData%/Exiled/Plugins``
+  - Move it to ``~/.config/EXILED/Plugins``
 
 # Dependencies
 <a href="https://www.github.com/Exiled-Team/EXILED"><img align="left" alt="Exiled" width="52px" src="https://raw.githubusercontent.com/Exiled-Team/EXILED/master/assets/Exiled_Icon.ico"></a></img>
